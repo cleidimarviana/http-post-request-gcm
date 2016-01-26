@@ -7,14 +7,14 @@ To send notification messages to Android devices you need first to send a POST r
 
 ## Get Google API Key Server
 
-Go to the [Google Console][1]
-Create a new project / open project
-Click on 'APIs & Auth' on the left
-Find the 'Google Cloud Messaging for Android' option, and press off to turn it on
-Go to the creditials tab on the left
-Go the 'Public API access' section and click 'Create new key'
-Choose 'Server key' and click 'Create'
-The API key is now shown under the section 'Key for server applications'
+1. Go to the [Google Console][1]
+2. Create a new project / open project
+3. Click on 'APIs & Auth' on the left
+4. Find the 'Google Cloud Messaging for Android' option, and press off to turn it on
+5. Go to the creditials tab on the left
+6. Go the 'Public API access' section and click 'Create new key'
+7. Choose 'Server key' and click 'Create'
+8. The API key is now shown under the section 'Key for server applications'
 
 Feedback
 ----
